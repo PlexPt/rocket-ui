@@ -9,7 +9,7 @@
 	},
 	"dependencies": {
 		"@element-plus/icons-vue": "^2.0.9",
-		"axios": "^0.27.2",
+		"axios": "^1.3.4",
 		"element-plus": "^2.2.29",
 		"md-editor-v3": "^2.2.1",
 		"pinia": "^2.0.30",
