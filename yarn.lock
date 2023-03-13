@@ -421,10 +421,10 @@ delayed-stream@~1.0.0:
   resolved "https://registry.npmjs.org/delayed-stream/-/delayed-stream-1.0.0.tgz#df3ae199acadfb7d440aaae0b29e2272b24ec619"
   integrity sha512-ZySD7Nf91aLB0RxL4KGrKHBXl7Eds1DAmEdcoVawXnLD7SDhpNgtuII2aAkg7a7QS41jxPSZ17p4VdGnMHk3MQ==
 
-element-plus@^2.2.29:
-  version "2.2.29"
-  resolved "https://registry.npmmirror.com/element-plus/-/element-plus-2.2.29.tgz#7dd72f9cafdc102ae3f9e4efe612e403ef713a74"
-  integrity sha512-g4dcrURrKkR5uUX8n5RVnnqGnimoki9HfqS4yHHG6XwCHBkZGozdq4x+478BzeWUe31h++BO+7dakSx4VnM8RQ==
+element-plus@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.npmmirror.com/element-plus/-/element-plus-2.3.0.tgz#c7492fe7b604eef60163d4e900ab074ae22bc553"
+  integrity sha512-3s3JO4+LHLi61tFwF2emIHx6nxwKKdj5YWcj3GUBoXKhbuRjhq6xqaxWpBlPk7jySr/8Eci5++T2THbvrpGn7A==
   dependencies:
     "@ctrl/tinycolor" "^3.4.1"
     "@element-plus/icons-vue" "^2.0.6"
